@@ -1,0 +1,15 @@
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.exe
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.deps.json
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.runtimeconfig.json
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.dll
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\ref\RnaCamadaUnica.dll
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.pdb
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.csproj.AssemblyReference.cache
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.AssemblyInfoInputs.cache
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.AssemblyInfo.cs
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.csproj.CoreCompileInputs.cache
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.dll
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\ref\RnaCamadaUnica.dll
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.pdb
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.genruntimeconfig.cache
